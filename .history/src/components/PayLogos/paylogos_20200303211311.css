@@ -1,0 +1,12 @@
+img {
+    width: 75px;
+    margin: 20px;
+    z-index: 11;
+}
+
+.logos {
+    height: 80px;
+    margin-top: 30px;
+    background-color: rgba(249, 249, 249, .9);
+    z-index: 12;
+}

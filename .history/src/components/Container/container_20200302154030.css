@@ -1,0 +1,7 @@
+.form-container {
+    transform: translate(50%, 50%);
+    width: 10vw;
+    height: 300px;
+    border-radius: 15px;
+    background-color: grey;
+}

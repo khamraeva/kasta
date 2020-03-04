@@ -1,0 +1,11 @@
+.footer{
+    height: 8vh;
+    background-color: rgb(42, 44, 48);
+    border-radius: 0 0 15px 15px;
+    
+}
+
+.kasta-logo {
+    width: 100px;
+    text-align: center;
+}

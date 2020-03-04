@@ -1,0 +1,20 @@
+.header {
+    height: 8vh;
+    background-color: rgb(42, 44, 48);
+    border-radius: 15px 15px 0 0;
+}
+.topay {
+    color: rgb(105, 105, 106);
+    text-align: right;
+    padding: 10px 10px 0 0;
+}
+.amount {
+    color: rgb(105, 105, 106);
+    text-align: right;
+    padding: 10px 10px 0 0;
+}
+.logo {
+    height: 5vh;
+    padding: 10px 5px;
+    float: left;
+}

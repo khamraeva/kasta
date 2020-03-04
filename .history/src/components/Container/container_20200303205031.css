@@ -1,0 +1,14 @@
+.form-container {
+    position: relative;
+    transform: translate(130%, 28%);
+    width: 350px;
+    height: 650px;
+    border-radius: 15px;
+    box-shadow:  0 0 30px rgba(126, 126, 126, .7);
+    z-index: 1;
+}
+
+.pci {
+    width: 100px;
+    padding: 20px;
+}

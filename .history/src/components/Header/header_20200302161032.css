@@ -1,0 +1,10 @@
+.header {
+    height: 10vh;
+    background-color: rgb(31, 31, 31);
+    border-radius: 15px 15px 0 0;
+}
+
+.logo {
+    width: 5vw;
+    padding: 10px;
+}

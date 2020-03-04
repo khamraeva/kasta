@@ -1,0 +1,8 @@
+.container {
+    position: absolute;
+    width: 28vw;
+    height: 60vh;
+    border-radius: 15px;
+    box-shadow:  0 0 30px rgb(126, 126, 126);
+    z-index: 10;
+}

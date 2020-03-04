@@ -1,0 +1,144 @@
+.container {
+    transform: translate(3%, 3%);
+    width: 340px;
+    height: 400px;
+    border-radius: 15px;
+    box-shadow:  0 0 30px rgba(126, 126, 126, .7);
+    z-index: 10;
+}
+.new-card {
+    padding: 0 10px;
+    color: rgb(75, 137, 245);
+    display: inline-block;
+}
+.card-icon {
+    float: right;
+    padding: 20px;
+}
+.cards-name {
+    color: rgba(105, 105, 106, .5);
+    font-size: 12px;
+    padding: 0 32px;
+    margin-top: -15px;
+}
+.hr {
+    border-top: 1px dashed;
+    color: rgba(105, 105, 106, .5);
+    margin: 15px 0;
+}
+
+.card-number {
+    display: inline-block;
+    padding: 10px;
+}
+
+.card-number label{
+    color: rgb(64, 86, 113);
+    font-size: 16px;
+}
+
+.card-number input {
+    width: 180px;
+    height: 25px;
+    border: 1px solid rgba(105, 105, 106, .3);
+    color: rgba(105, 105, 106, .5);
+    border-radius: 5px;
+}
+
+.expiring {
+    display: inline-block;
+    padding: 10px;
+}
+
+.expiring label{
+    color: rgb(64, 86, 113);
+    font-size: 16px;
+}
+
+.expiring input {
+    width: 100px;
+    height: 25px;
+    border: 1px solid rgba(105, 105, 106, .3);
+    color: rgba(105, 105, 106, .5);
+    border-radius: 5px;
+}
+
+.cardholder {
+    display: inline-block;
+    padding: 10px;
+}
+
+.cardholder input {
+    width: 180px;
+    height: 25px;
+    border: 1px solid rgba(105, 105, 106, .3);
+    color: rgba(105, 105, 106, .5);
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+.cardholder label{
+    color: rgb(64, 86, 113);
+    font-size: 16px;
+}
+
+.cvv {
+    display: inline-block;
+    padding: 10px;
+}
+
+.cvv label{
+    color: rgb(64, 86, 113);
+    font-size: 16px;
+}
+
+.cvv input {
+    width: 100px;
+    height: 25px;
+    border: 1px solid rgba(105, 105, 106, .3);
+    color: rgba(105, 105, 106, .5);
+    border-radius: 5px;
+}
+
+.remember-card {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.save-card {
+    color: rgb(64, 86, 113);
+    font-size: 12px;
+    
+}
+
+.button {
+    transform: translate(15%, 15%);
+    background-color: rgb(197, 0, 97);
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    box-shadow:  0 0 10px rgba(126, 126, 126, .7);
+}
+
+.timetoleft {
+    color: rgba(105, 105, 106, .5);
+    font-size: 12px;
+    transform: translate(25%, 75%);
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+}
+
+.span {
+    position: relative;
+}
+
+.span span {
+   position: absolute; 
+}

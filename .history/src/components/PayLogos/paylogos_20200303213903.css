@@ -1,0 +1,13 @@
+.pci, .mastercard, .visa {
+    width: 75px;
+    margin: 10px 20px;
+    z-index: 11;
+    opacity: .6;
+}
+
+.logos {
+    height: 80px;
+    margin-top: 30px;
+    background-color: rgb(249, 249, 249);
+    z-index: 12;
+}

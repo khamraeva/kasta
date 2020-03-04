@@ -1,0 +1,34 @@
+.main-container{
+    width: 430px;
+    height: 630px;
+    margin: auto;
+    position: relative;
+}
+
+.form-container {
+    position: relative;
+    margin: 10% auto;
+    width: 360px;
+    height: 630px;
+    border-radius: 15px;
+    box-shadow:  0 0 30px rgba(126, 126, 126, .7);
+    background-color: white;
+}
+
+.shadow::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(100, 100, 100);
+  }
+
+.times {
+    color: rgb(162, 169, 180);
+    position: absolute;
+    right: 0;
+    top: 20px;
+    height: 50px;
+}

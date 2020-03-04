@@ -1,0 +1,18 @@
+.container {
+    position: absolute;
+    transform: translate(3%, 3%);
+    width: 330px;
+    height: 400px;
+    border-radius: 15px;
+    box-shadow:  0 0 30px rgba(126, 126, 126, .7);
+    z-index: 10;
+}
+.new-card {
+    padding: 0 10px;
+    color: rgb(75, 137, 245);
+    display: inline-block;
+}
+.card-icon {
+    float: right;
+    padding: 0 10px;
+}

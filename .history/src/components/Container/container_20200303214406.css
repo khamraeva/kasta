@@ -1,0 +1,12 @@
+.form-container {
+    position: relative;
+    /* transform: translate(175%, 25%); */
+    margin: 50% auto;
+    width: 360px;
+    height: 630px;
+    border-radius: 15px;
+    box-shadow:  0 0 30px rgba(126, 126, 126, .7);
+    z-index: 1;
+}
+
+

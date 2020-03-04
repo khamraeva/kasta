@@ -1,0 +1,17 @@
+.modal{
+    width: 400px;
+    height: 100px;
+    font-size: 20px;
+    color: rgb(64, 86, 113);
+    box-shadow:  0 0 30px rgba(126, 126, 126, .7);
+    border-radius: 10px;
+    z-index: 30;
+    position: absolute;
+    transition: all 0.3s;
+    text-align: center;
+    transform: translate(-30px, -200px);
+}
+
+.text {
+    margin: 40px;
+}

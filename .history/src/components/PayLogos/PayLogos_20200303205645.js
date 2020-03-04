@@ -1,0 +1,1 @@
+<img className='pci' src={PCI} alt='pci' />

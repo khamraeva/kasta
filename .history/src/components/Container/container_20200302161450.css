@@ -1,0 +1,7 @@
+.form-container {
+    transform: translate(150%, 25%);
+    width: 28vw;
+    height: 60vh;
+    border-radius: 15px;
+    box-shadow:  0 0 30px rgba(126, 126, 126);
+}

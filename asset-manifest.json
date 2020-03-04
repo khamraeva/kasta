@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kasta/static/css/main.145e98d3.chunk.css",
+    "main.js": "/kasta/static/js/main.d8fa1e57.chunk.js",
+    "main.js.map": "/kasta/static/js/main.d8fa1e57.chunk.js.map",
+    "runtime-main.js": "/kasta/static/js/runtime-main.19d3664a.js",
+    "runtime-main.js.map": "/kasta/static/js/runtime-main.19d3664a.js.map",
+    "static/js/2.21d8fce6.chunk.js": "/kasta/static/js/2.21d8fce6.chunk.js",
+    "static/js/2.21d8fce6.chunk.js.map": "/kasta/static/js/2.21d8fce6.chunk.js.map",
+    "index.html": "/kasta/index.html",
+    "precache-manifest.18a4b4775df74d2602b2ec95a4f360df.js": "/kasta/precache-manifest.18a4b4775df74d2602b2ec95a4f360df.js",
+    "service-worker.js": "/kasta/service-worker.js",
+    "static/css/main.145e98d3.chunk.css.map": "/kasta/static/css/main.145e98d3.chunk.css.map",
+    "static/js/2.21d8fce6.chunk.js.LICENSE.txt": "/kasta/static/js/2.21d8fce6.chunk.js.LICENSE.txt",
+    "static/media/kastalogo.png": "/kasta/static/media/kastalogo.c292da4b.png",
+    "static/media/logo.png": "/kasta/static/media/logo.5f638d71.png",
+    "static/media/mastercard.png": "/kasta/static/media/mastercard.5f267694.png",
+    "static/media/visa.png": "/kasta/static/media/visa.3141adf7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19d3664a.js",
+    "static/js/2.21d8fce6.chunk.js",
+    "static/css/main.145e98d3.chunk.css",
+    "static/js/main.d8fa1e57.chunk.js"
+  ]
+}
